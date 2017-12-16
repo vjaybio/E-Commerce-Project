@@ -1,0 +1,9 @@
+button, input, select, textarea {
+	font-family: inherit;
+	font-size: 100%
+}
+
+input[type="text"], input[type="tel"], input[type="email"] {
+	width: 90%;
+	margin: .2em auto .8em auto;
+}
